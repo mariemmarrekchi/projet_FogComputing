@@ -31,4 +31,4 @@ Renvoi du résultat final :
 Le serveur "Mariem" peut ensuite renvoyer l'image traitée et assemblée aux clients ou à d'autres parties prenantes, en fonction des exigences du système.
 
 
-Les captures : serveur Mariem (https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/capture1.png)
+Les captures : serveur Mariem ![01](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/capture1.png)
