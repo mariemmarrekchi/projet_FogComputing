@@ -32,3 +32,24 @@ Le serveur "Mariem" peut ensuite renvoyer l'image traitée et assemblée aux cli
 
 
 Les captures : serveur Mariem ![01](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/capture1.png)
+![02](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/capture2.png)
+![03](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/capture3.png)
+![04](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/capture4.png)
+
+------------------------------------------------
+Les captures :  Eya ![05](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/image1.png)
+![06](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/image2.png)
+![07](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/image3.png)
+
+-------------------------------------------
+
+Les captures :  Oumayma ![08](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/oumayma.png)
+![09](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/oumayma2.png)
+![10](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/oumayma3.png)
+
+-------------------------------------------
+
+Les captures :  Manar ![11](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/imagemanara1.png)
+![12](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/imagemanar2.png)
+![13](https://github.com/mariemmarrekchi/projet_FogComputing/blob/master/imagemanar3.png)
+
